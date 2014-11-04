@@ -4,13 +4,13 @@
 Description
 --------
 
-The [official microsite of the /Developer Program](http://18f.github.io/API-All-the-X/), a project of [18F](http://18f.gsa.gov) API Engagement.
+The [official microsite of the /Developer](http://18f.github.io/Developer/), a project of the MobileUSPTO (http://tampa-wip.uspto.gov/products/mobile/index.jsp) API Engagement effort.
 
 
 How to contribute
 --------
 
-Please suggest further projects, ask questions, or otherwise share thoughts in [the issues tracker](https://github.com/18F/API-All-the-X/issues?state=open). Pull requests are welcome.
+Please suggest further projects, ask questions, or otherwise share thoughts in [the issues tracker](https://github.com/developer/issues?state=open). Pull requests are welcome.
 
 ### Submitting a Pull Request
 
